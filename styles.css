@@ -1,0 +1,13 @@
+/* CSS by Gabriella Bottoms */
+/* Color Palette 
+deep blue= #0367A6
+sky blue= #0378A6
+forrest green= #57950C
+grass green= #898C1F
+wood brown= #736029
+*/ 
+
+/* Global (base) Mobile First */
+body{
+    background-color: #0378A6 ;
+}
